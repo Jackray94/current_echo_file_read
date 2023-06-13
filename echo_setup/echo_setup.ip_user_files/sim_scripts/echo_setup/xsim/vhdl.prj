@@ -1,0 +1,24 @@
+vhdl xil_defaultlib  \
+"../../../../echo_setup.gen/sources_1/bd/echo_setup/ip/echo_setup_microblaze_0_0/sim/echo_setup_microblaze_0_0.vhd" \
+"../../../../echo_setup.gen/sources_1/bd/echo_setup/ip/echo_setup_dlmb_v10_0/sim/echo_setup_dlmb_v10_0.vhd" \
+"../../../../echo_setup.gen/sources_1/bd/echo_setup/ip/echo_setup_ilmb_v10_0/sim/echo_setup_ilmb_v10_0.vhd" \
+"../../../../echo_setup.gen/sources_1/bd/echo_setup/ip/echo_setup_dlmb_bram_if_cntlr_0/sim/echo_setup_dlmb_bram_if_cntlr_0.vhd" \
+"../../../../echo_setup.gen/sources_1/bd/echo_setup/ip/echo_setup_ilmb_bram_if_cntlr_0/sim/echo_setup_ilmb_bram_if_cntlr_0.vhd" \
+"../../../../echo_setup.gen/sources_1/bd/echo_setup/ip/echo_setup_microblaze_0_axi_intc_0/sim/echo_setup_microblaze_0_axi_intc_0.vhd" \
+"../../../../echo_setup.gen/sources_1/bd/echo_setup/ip/echo_setup_mdm_1_0/sim/echo_setup_mdm_1_0.vhd" \
+"../../../../echo_setup.gen/sources_1/bd/echo_setup/ip/echo_setup_rst_clk_wiz_1_100M_0/sim/echo_setup_rst_clk_wiz_1_100M_0.vhd" \
+
+vhdl mii_to_rmii_v2_0_21  \
+"../../../../echo_setup.gen/sources_1/bd/echo_setup/ipshared/25d7/hdl/mii_to_rmii_v2_0_vh_rfs.vhd" \
+
+vhdl xil_defaultlib  \
+"../../../../echo_setup.gen/sources_1/bd/echo_setup/ip/echo_setup_mii_to_rmii_0_0/sim/echo_setup_mii_to_rmii_0_0.vhd" \
+"../../../../echo_setup.gen/sources_1/bd/echo_setup/ip/echo_setup_axi_uartlite_0_0/sim/echo_setup_axi_uartlite_0_0.vhd" \
+"../../../../echo_setup.gen/sources_1/bd/echo_setup/ip/echo_setup_axi_ethernetlite_0_0/sim/echo_setup_axi_ethernetlite_0_0.vhd" \
+"../../../../echo_setup.gen/sources_1/bd/echo_setup/ip/echo_setup_axi_timer_0_0/sim/echo_setup_axi_timer_0_0.vhd" \
+"../../../../echo_setup.gen/sources_1/bd/echo_setup/ip/echo_setup_axi_smc_0/bd_0/ip/ip_1/sim/bd_fbd2_psr0_0.vhd" \
+"../../../../echo_setup.gen/sources_1/bd/echo_setup/ip/echo_setup_axi_smc_0/bd_0/ip/ip_2/sim/bd_fbd2_psr_aclk_0.vhd" \
+"../../../../echo_setup.gen/sources_1/bd/echo_setup/ip/echo_setup_axi_smc_0/bd_0/ip/ip_3/sim/bd_fbd2_psr_aclk1_0.vhd" \
+"../../../../echo_setup.gen/sources_1/bd/echo_setup/ip/echo_setup_rst_mig_7series_0_81M_0/sim/echo_setup_rst_mig_7series_0_81M_0.vhd" \
+
+nosort
